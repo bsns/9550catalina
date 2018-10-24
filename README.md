@@ -1,6 +1,10 @@
 # 9550mojave
 mojave clover for xps15 9550 i5 1080p
 
+# 更新：  
+更新CLOVER，采用USBinjectall.kext，因为最新的usbport.kext在我的机器上无法驱动usb3.0  
+++++++++++++++++++++++++++++++++++++++
+
 我并未有时间去研究黑苹果的驱动，编译等，只要替换上EFI能正常使用就行。。  
 在尝试了https://github.com/darkhandz/XPS-9550-Mojave  
 https://github.com/xxxzc/xps15-9550-macos 的链接后仍然无法正常使用usb3.0.  
