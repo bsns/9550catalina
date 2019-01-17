@@ -4,6 +4,8 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
+	<key>CFBundleGetInfoString</key>
+	<string>1.0 Copyright © 2018 Headsoft. All rights reserved.</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.Headsoft.USBPorts</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -23,9 +25,9 @@
 		<key>MacBookPro13,3-XHC</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
-			<string>com.apple.driver.AppleUSBMergeNub</string>
+			<string>com.apple.driver.AppleUSBHostMergeProperties</string>
 			<key>IOClass</key>
-			<string>AppleUSBMergeNub</string>
+			<string>AppleUSBHostMergeProperties</string>
 			<key>IONameMatch</key>
 			<string>XHC</string>
 			<key>IOProviderClass</key>
@@ -41,7 +43,7 @@
 					<key>HS01</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>port</key>
 						<data>
 						AQAAAA==
@@ -50,7 +52,7 @@
 					<key>HS02</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>3</integer>
 						<key>port</key>
 						<data>
 						AgAAAA==
@@ -68,7 +70,7 @@
 					<key>HS09</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>255</integer>
 						<key>port</key>
 						<data>
 						CQAAAA==
