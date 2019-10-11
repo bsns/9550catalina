@@ -1,5 +1,5 @@
-# 9550mojave
-mojave clover for xps15 9550 i5 1080p
+# 9550catalina
+catalina clover for xps15 9550 i5 1080p
 
 # 更新：  
 更新CLOVER，采用USBinjectall.kext，因为最新的usbport.kext在我的机器上无法驱动usb3.0  
