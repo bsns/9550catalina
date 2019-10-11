@@ -16,4 +16,4 @@ https://github.com/xxxzc/xps15-9550-macos 的链接后仍然无法正常使用us
 直接替换CLOVER文件即可，音量一切正常，如果出现耳机声音异常，可以尝试双击安装  
 Post-install/ALC298PluginFix/install双击自动卸载.command
 
-![image](/CLOVER/themes/Mojave/screenshot.png)
+![image](/Post-install/10.15.png)
